@@ -3,3 +3,4 @@ dink Resolusi
 - belajar melalui the odin project
 - bikin project untuk inovasi kantor
 - ikut hackaton kalau udah bisa
+- kolaborasi dengan siapa aja yg jago
