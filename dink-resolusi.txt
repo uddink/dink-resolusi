@@ -1,5 +1,6 @@
 dink Resolusi
 - pengen belajar webprogramming konsisten
+- maybe kotlin for android ???
 - belajar melalui the odin project sambil intip2 youtube
 - bikin project untuk inovasi kantor
 - ikut hackaton kalau udah bisa
